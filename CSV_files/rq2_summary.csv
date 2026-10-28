@@ -1,0 +1,16 @@
+algorithm,database,auth_ms,connect_ms,query_ms,total_ms
+ml_dsa_65,mongodb,5.2712,4.2398,0.2456,11.6166
+slh_dsa_sha2_128s,mysql,178.6228,24.0555,0.3209,207.0969
+ml_dsa_65,mysql,5.1446,22.2324,0.275,27.7626
+ml_dsa_65,postgresql,5.2741,47.4972,1.2204,54.0613
+slh_dsa_sha2_128s,mongodb,175.7206,3.5188,0.3122,180.7268
+slh_dsa_sha2_128s,postgresql,175.5488,47.9078,1.1797,224.893
+ml_dsa_44,mongodb,3.8472,2.7132,0.2307,7.1631
+ECDSA-P256,mongodb,0.1137,12.4004,0.2345,12.9282
+ml_dsa_87,postgresql,7.2326,47.3239,1.1809,55.8011
+ml_dsa_44,postgresql,3.9193,47.5785,1.2113,52.7696
+ml_dsa_44,mysql,3.7766,22.4206,0.264,26.5418
+ml_dsa_87,mongodb,7.1794,2.6192,0.2301,10.238
+ECDSA-P256,postgresql,0.1409,48.2488,1.2233,49.7579
+ECDSA-P256,mysql,0.1218,25.2182,0.2891,25.7161
+ml_dsa_87,mysql,7.2614,24.8531,0.2883,32.6282
