@@ -1,0 +1,6 @@
+algorithm,keygen_us,sign_us,verify_us,public_key_bytes,signature_bytes
+ECDSA-P256,11.6,19.4,45.2,65,71.0
+ml_dsa_44,77.7,3680.35,68.4,1312,2420.0
+ml_dsa_65,133.0,5024.85,107.4,1952,3309.0
+ml_dsa_87,192.3,6915.75,169.1,2592,4627.0
+slh_dsa_sha2_128s,22732.45,176744.5,183.5,32,7856.0
