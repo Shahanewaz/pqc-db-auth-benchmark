@@ -94,6 +94,11 @@ Database-access experiments use 100 measured iterations per algorithm/database c
 
 ```text
 pqc-db-auth-benchmark/
+├── CSV_files/
+│   ├── rq1_results.csv
+│   ├── rq2_raw.csv
+│   ├── rq2_summary.csv
+│   └── rq3_results.csv
 ├── Figures/
 │   ├── RQ1_Figure.png
 │   ├── RQ2_Figure.png
